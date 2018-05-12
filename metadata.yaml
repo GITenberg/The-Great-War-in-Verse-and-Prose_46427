@@ -1,0 +1,36 @@
+_repo: The-Great-War-in-Verse-and-Prose_46427
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Cody, Henry John
+    birthdate: 1868
+    deathdate: 1951
+    gutenberg_agent_id: '43628'
+    url: http://www.gutenberg.org/2009/agents/43628
+covers:
+- cover_type: archival
+  image_path: 46427-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Wetherell, J. E. (James Elgin)
+    alias: Wetherell, James Elgin
+    birthdate: 1851
+    deathdate: 1940
+    gutenberg_agent_id: '43777'
+    url: http://www.gutenberg.org/2009/agents/43777
+description: ''
+gutenberg_issued: '2014-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46427'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918'
+- !lcc 'PN'
+- !lcsh 'World War, 1914-1918 -- Poetry'
+title: The Great War in Verse and Prose
+url: http://www.gutenberg.org/ebooks/46427
